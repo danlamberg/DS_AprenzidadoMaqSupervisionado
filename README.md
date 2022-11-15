@@ -1,3 +1,16 @@
+ALUNO: DANIEL DE OLIVEIRA LAMBERG
+
+ALUNO: DIOGO VARONI DE MOURA
+
+RM: 12210919
+
+RM: 13135759
+
+TURMA: Data Science - Osório Sala 404 - QUA - 19:00 - 21:40
+
+Os dados foram extraídos do site do Kaggle: 
+
+
 # Aprenzidado de Máquina Supervisionado
 
 Conteúdo do teste
