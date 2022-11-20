@@ -10,7 +10,7 @@ TURMA: Data Science - Osório Sala 404 - QUA - 19:00 - 21:40
 
 Os dados foram extraídos do site do Kaggle: Indicadores de doença do coração
 
-
+<h1 align="center"> Seu título aqui </h1>
 # Aprenzidado de Máquina Supervisionado
 
 Conteúdo do teste
